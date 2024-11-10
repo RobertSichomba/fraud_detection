@@ -1,0 +1,1 @@
+## In this notebook, we will explore and analyze an online payments fraud detection dataset. The dataset contains transaction logs with various features such as transaction amount, old and new balance, and transaction type. Our goal is to build a machine learning model that can accurately detect fraudulent transactions.
